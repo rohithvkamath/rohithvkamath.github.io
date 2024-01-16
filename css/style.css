@@ -315,6 +315,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-started {
   border-bottom: none;
+  background-color:#000;
 }
 
 .fh5co-bg-dark {
@@ -811,7 +812,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-color: #1b2026;
+  background-color: #000;
   position: relative;
   float: left;
   width: 100%;
